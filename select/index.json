@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "クラウン",
+  "base_artist": "メガテラ・ゼロ",
+  "createdAt": "2026-03-13T16:57:38.182569Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ヘヴィ・ライズ・ザ・クラウン",
+      "artist": "Machine Head",
+      "has_synced": false,
+      "path": "select/01_ヘヴィ・ライズ・ザ・クラウン_Machine_Head.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "クラウン",
+      "artist": "メガテラ・ゼロ",
+      "has_synced": false,
+      "path": "select/pl_01_クラウン_メガテラ・ゼロ.txt"
+    }
+  ]
+}
